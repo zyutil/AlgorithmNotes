@@ -1,7 +1,7 @@
 package com.zy._2020.Dec.TwentyEight;
 
 /**
- * @author at
+ * @author wzy
  * @Date 2020/12/28
  **/
 public class T_2_两数相加 {

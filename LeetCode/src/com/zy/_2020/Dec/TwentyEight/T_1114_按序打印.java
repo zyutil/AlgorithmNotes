@@ -3,7 +3,7 @@ package com.zy._2020.Dec.TwentyEight;
 import java.util.Scanner;
 
 /**
- * @author at
+ * @author wzy
  * @Date 2020/12/28
  **/
 public class T_1114_按序打印 {
